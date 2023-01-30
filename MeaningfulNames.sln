@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexIf", "ComplexIf\ComplexIf.csproj", "{EE219A0C-A115-4BCA-A7CF-66A2786871CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolNames", "BoolNames\BoolNames.csproj", "{EBD5F0E2-99FE-4D8F-A8A8-1561A904575F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EE219A0C-A115-4BCA-A7CF-66A2786871CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE219A0C-A115-4BCA-A7CF-66A2786871CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE219A0C-A115-4BCA-A7CF-66A2786871CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD5F0E2-99FE-4D8F-A8A8-1561A904575F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD5F0E2-99FE-4D8F-A8A8-1561A904575F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD5F0E2-99FE-4D8F-A8A8-1561A904575F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD5F0E2-99FE-4D8F-A8A8-1561A904575F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

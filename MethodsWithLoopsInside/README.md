@@ -1,21 +1,21 @@
-# Complex If statement
-![Complex if statement](https://github.com/DzidekDotNet/MeaningfulNames/blob/main/MethodsWithLoopsInside/MethodsWithLoopsInside.jpg?raw=true)
+# Methods containing loops inside
+![Methods containing loops inside](https://github.com/DzidekDotNet/MeaningfulNames/blob/main/MethodsWithLoopsInside/MethodsWithLoopsInside.jpg?raw=true)
 Refactoring each loop statement to method/function is one of the easiest way to improve readability.
 
 ## Why readability is so important for us?
-Many publications show us that programmers spend much more time reading code than writing. If that's true, it's very important to speed things up. This is the main reason why we should care about readability.
+Many publications show that programmers spend much more time reading code than writing. If that's true, it's crucial to speed things up. This is the main reason why we should care about readability.
 
-## How complex if can improve readability?
+## How extracting a loop into separate methods can improve readability?
 ### While adding or modifying functions
 Consider that you need to add some feature or change something...
 
-First, you will look where you should add or change something, but you maybe don't need to focus on the each loop itself, you need to know if this is the place that you are interested in or not (where you will add or change something). 
+First, you will look at where to add or change something, but you may not need to focus on the loop itself. You need to know whether this is the place you are interested in (where you will add or change something). 
 
-If in code there are methods or functions which describe what this loop does it is much easier for the next developer to their staff
+If your code has methods or functions that describe how this loop works, it will be much easier for the next programmer to do their job.
 ### While finding bugs
-If you have to fix the bugs and you read the code with loops (without a description of what was the intention) it is hard to figure out if it is good code or not
+If you have to fix the bugs and read the code with loops (without a description of what the intention was), it is hard to figure out whether it is good code.
 
-But if you have a method with describes what was the intention and the complex if the inside has some mistake - it is easy to fix it
+But if you have a method that describes the intention and the loop, the inside has some mistakes - it is easy to fix.
 
 ## How to write code faster (refactoring to private methods)
 ### Rider

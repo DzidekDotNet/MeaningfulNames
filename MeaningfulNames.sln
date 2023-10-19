@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolNames", "BoolNames\Bool
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsSuffix", "DesignPatternsSuffix\DesignPatternsSuffix.csproj", "{2B93140B-D074-4E9C-84B0-4EF96BB40418}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithLoopsInside", "MethodsWithLoopsInside\MethodsWithLoopsInside.csproj", "{26B89929-13F6-4068-A5C6-3A287AD4EAD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2B93140B-D074-4E9C-84B0-4EF96BB40418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B93140B-D074-4E9C-84B0-4EF96BB40418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B93140B-D074-4E9C-84B0-4EF96BB40418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B89929-13F6-4068-A5C6-3A287AD4EAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B89929-13F6-4068-A5C6-3A287AD4EAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B89929-13F6-4068-A5C6-3A287AD4EAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B89929-13F6-4068-A5C6-3A287AD4EAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
